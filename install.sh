@@ -85,6 +85,6 @@ echo
 tput setaf 3;  echo "Installation & configuration succesfully finished."
 echo
 echo "Twitter @ccstudio"
-echo "E-mail: contato@ccstudio,com"
+echo "E-mail: contato@ccstudio.com"
 echo "Bye! Your CCSTUDIO!"
 tput sgr0
