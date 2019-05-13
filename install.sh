@@ -84,7 +84,7 @@ echo
 echo
 tput setaf 3;  echo "Installation & configuration succesfully finished."
 echo
-echo "Twitter @TeamKloudboy"
-echo "E-mail: support@kloudboy.com"
-echo "Bye! Your boy KLOUDBOY!"
+echo "Twitter @ccstudio"
+echo "E-mail: contato@ccstudio,com"
+echo "Bye! Your CCSTUDIO!"
 tput sgr0
