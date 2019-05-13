@@ -1,7 +1,7 @@
 #!/bin/bash
 # GET ALL USER INPUT
-echo "Domain Name (eg. example.com)?"
-read DOMAIN
+echo "IP_ADDRESS Name (eg. 192.168.0.50)?"
+read IP_ADDRESS
 echo "App name (eg. studio)?"
 read APP_NAME
 tput setaf 2; echo 'Wellcome to Parse Server and Dashboard on Ubuntu 18.04 install bash script';
@@ -73,8 +73,8 @@ echo "APP_ID:   $APP_ID"
 echo
 echo "MASTER_KEY:   $MASTER_KEY"
 echo
-echo "App:        https://app.$DOMAIN"
-echo "Dashboard:  https://dash.$DOMAIN"
+echo "App:        https://$DOMAIN:1377"
+echo "Dashboard:  https://$DOMAIN:4040"
 echo
 echo "Username:   admin"
 echo "Password:   $PASS"
