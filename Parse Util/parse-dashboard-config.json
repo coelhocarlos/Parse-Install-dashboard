@@ -1,0 +1,22 @@
+ {
+    "apps": [
+        {
+            "serverURL": "http://192.168.0.50:1337/parse",
+            "appId": "1234",
+            "masterKey": "5678",
+            "appName": "exemplo"
+        },
+		{
+            "serverURL": "http://192.168.0.50:1337/parse",
+            "appId": "cpxb8",
+            "masterKey": "k942b",
+            "appName": "ccstudio"
+        }
+    ],
+    "users": [
+        {
+        "user": "admin",
+        "pass": "1q2w3e"
+        }
+        ]
+}
